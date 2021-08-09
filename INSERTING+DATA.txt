@@ -1,0 +1,13 @@
+INSERT INTO countries (name, capital)
+	    VALUES('Austia', 'Vienna'),
+		  ('Bulgaria', 'Sofia'),
+		  ('Canada',   'Ottawa'),
+		  ('Denmark',  'Copenhagen'),
+		  ('Egypt',    'Cairo'),
+		  ('Fiji',     'Suva'),
+		  ('Germany',  'Berlin'),
+		  ('Haiti',    'Port-au-Prince'),
+		  ('India',    'New Delhi'),
+		  ('Japan',    'Tokyo'),
+		  ('Kenya',    'Nairobi'),
+		  ('Luxemburg','Luxemburg');
